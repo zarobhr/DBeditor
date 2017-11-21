@@ -1,0 +1,25 @@
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Release\EQ2Emu Database Editor.exe
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Release\EQ2Emu Database Editor.pdb
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Release\TabControl_Spawns.dll
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Release\TabControl_Spawns.pdb
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu_Database_Editor.Form1.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu_Database_Editor.Form_About.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu Database Editor.exe
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Release\EQ2Emu Database Editor.pdb

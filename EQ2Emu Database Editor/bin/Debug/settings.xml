@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--QuestEditor settings, used to store database information-->
+<QuestEditor>
+  <DbSettings Type="Server">127.0.0.1</DbSettings>
+  <DbSettings Type="Database">eq2world7</DbSettings>
+  <DbSettings Type="User">eq2-zarobhr</DbSettings>
+  <DbSettings Type="Password">Jimena333</DbSettings>
+</QuestEditor>

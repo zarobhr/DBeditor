@@ -1,0 +1,165 @@
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\EQ2Emulator-ServerPack\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+F:\EQ2\Source\Tools\ScatWare\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+E:\EQ2\Source\Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\MySql.Data.dll
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ Tools\trunk\DBEditors\cynnar\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\Users\kguinn\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+Q:\Projects\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\MySql.Data.dll
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\MySql.Data.dll
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\Users\jkg.REEFCRAZED\Desktop\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Waypoint_Parser.resources
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\Users\kguinn\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\appearances.xml
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\appearances.xml
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\MySql.Data.dll
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Waypoint_Parser.resources
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\Users\jkg.REEFCRAZED\Dropbox\Norrath Reborn\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\appearances.xml
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.exe
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\EQ2Emu Database Editor.pdb
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\MySql.Data.dll
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.dll
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\bin\Debug\TabControl_Spawns.pdb
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csprojResolveAssemblyReference.cache
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form1.resources
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_About.resources
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Calculator.resources
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Connect.resources
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_Waypoint_Parser.resources
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Form_WhatsNew.resources
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu_Database_Editor.Properties.Resources.resources
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.csproj.GenerateResource.Cache
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.exe
+C:\My server\EQ2Emu Database Editor\EQ2Emu Database Editor\obj\Debug\EQ2Emu Database Editor.pdb
