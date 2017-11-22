@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EQ2Emu Database Editor", "EQ2Emu Database Editor\EQ2Emu Database Editor.csproj", "{7995D0F2-837D-4376-A009-D1F3D8D920DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "TabControl_Spawns\CustomControls.csproj", "{75803AF6-58CB-4F07-956B-8CDFABA54E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7995D0F2-837D-4376-A009-D1F3D8D920DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7995D0F2-837D-4376-A009-D1F3D8D920DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7995D0F2-837D-4376-A009-D1F3D8D920DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7995D0F2-837D-4376-A009-D1F3D8D920DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75803AF6-58CB-4F07-956B-8CDFABA54E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75803AF6-58CB-4F07-956B-8CDFABA54E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75803AF6-58CB-4F07-956B-8CDFABA54E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75803AF6-58CB-4F07-956B-8CDFABA54E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

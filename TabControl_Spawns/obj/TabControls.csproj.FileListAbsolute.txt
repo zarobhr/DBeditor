@@ -1,0 +1,7 @@
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\TabControl_Spawns\bin\Debug\TabControl_Spawns.dll
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\TabControl_Spawns\bin\Debug\TabControl_Spawns.pdb
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\TabControl_Spawns\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\TabControl_Spawns\obj\Debug\TabControls.csproj.GenerateResource.Cache
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\TabControl_Spawns\obj\Debug\TabControl_Spawns.dll
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\TabControl_Spawns\obj\Debug\TabControl_Spawns.pdb
+C:\Documents and Settings\Scott\My Documents\Visual Studio 2005\Projects\EQ2Emu Database Editor\TabControl_Spawns\obj\Debug\TabControl_Spawns.TabControl_Spawns.resources
